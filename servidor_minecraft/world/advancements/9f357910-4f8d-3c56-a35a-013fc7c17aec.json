@@ -1084,6 +1084,8 @@
       "desert_hills": "2024-12-13 01:43:28 +0000",
       "forest_hills": "2024-12-13 02:59:58 +0000",
       "plains": "2024-12-13 01:52:33 +0000",
+      "savanna": "2024-12-13 04:01:41 +0000",
+      "savanna_rock": "2024-12-13 04:02:10 +0000",
       "birch_forest_hills": "2024-12-13 03:56:36 +0000",
       "roofed_forest": "2024-12-13 02:07:32 +0000",
       "river": "2024-12-13 01:41:03 +0000",
@@ -1187,9 +1189,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-13 04:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-13 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:adventeringthehive": {
+    "criteria": {
+      "adventeringthehive": "2024-12-13 04:05:55 +0000"
     },
     "done": true
   },
@@ -1262,6 +1276,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 01:51:29 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advbreakegg": {
+    "criteria": {
+      "advbreakegg": "2024-12-13 04:03:53 +0000"
     },
     "done": true
   },
