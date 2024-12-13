@@ -16406,3 +16406,87 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [03:50:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 780 times.
 
 [03:50:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> lamento tu perdida
+[03:50:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:51:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 785 times.
+
+[03:51:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 790 times.
+
+[03:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> es dificil pasar por un fallecimiento de un ser querido, pero es algo natural
+[03:52:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si.
+[03:52:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 795 times.
+
+[03:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> y puede que sean 2
+[03:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> en el momento actual
+[03:53:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:53:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 800 times.
+
+[03:53:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> Eso es dificil de afrontar pero no imposible
+[03:54:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 805 times.
+
+[03:54:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:55:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 810 times.
+
+[03:55:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:56:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> lo que puedes hacer es disfrutar los momentos con los que pasas con aquel ser querido
+[03:56:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:56:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 815 times.
+
+[03:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si tienes razon
+[03:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno
+[03:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> para cambiar de tema
+[03:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tengo un totem
+[03:56:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:56:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> que tanto llevas explorando? XD
+[03:57:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> nose
+[03:57:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 820 times.
+
+[03:57:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> 25 coras :D
+[03:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> 29
+[03:57:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> su mecha jaja
+[03:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[03:57:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 825 times.
+
+[03:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Set own game mode to Creative Mode]
+[03:58:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Set own game mode to Survival Mode]
+[03:58:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:58:17] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-62, 33] in dimension 0 (overworld) while populating chunk [-61, 35], causing cascading worldgen lag.
+[03:58:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:58:17] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-62, 32] in dimension 0 (overworld) while populating chunk [-61, 35], causing cascading worldgen lag.
+[03:58:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:58:17] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-63, 33] in dimension 0 (overworld) while populating chunk [-61, 35], causing cascading worldgen lag.
+[03:58:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:58:17] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-63, 32] in dimension 0 (overworld) while populating chunk [-61, 35], causing cascading worldgen lag.
+[03:58:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:58:17] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-64, 32] in dimension 0 (overworld) while populating chunk [-61, 35], causing cascading worldgen lag.
+[03:58:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:58:17] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-64, 33] in dimension 0 (overworld) while populating chunk [-61, 35], causing cascading worldgen lag.
+[03:58:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:58:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno
+[03:58:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tmb tengo 25
+[03:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tp?
+[03:58:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 830 times.
+
+[03:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to Kirbopoy]
+[03:58:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> hacia ti?
+[03:58:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> bueno XD
+[03:59:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> nose que acer
+[03:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> una base ?
+[03:59:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> seria buena idea para frenar a los parasitos
+[03:59:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 835 times.
+
+[03:59:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Timed out
+[04:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[04:00:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> dnde la hacemos?
+[04:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> a
+[04:00:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 840 times.
+
+[04:00:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
