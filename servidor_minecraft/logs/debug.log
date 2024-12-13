@@ -15741,3 +15741,72 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 
 [02:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ;O
 [02:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> rupter
+[02:20:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ven uan cueva
+[02:20:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 240 times.
+
+[02:20:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> invar
+[02:20:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[02:20:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:21:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 245 times.
+
+[02:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:22:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 250 times.
+
+[02:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> apenas consume el sv de gb de ram : 2/16
+[02:22:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> re sobrado
+[02:22:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si p
+[02:22:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 255 times.
+
+[02:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> un picaso y nos matamos
+[02:23:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> el pico ase 24
+[02:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mira
+[02:23:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> un parasito
+[02:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pero el mas debil
+[02:23:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:23:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 260 times.
+
+[02:23:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> dos de invar
+[02:24:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 265 times.
+
+[02:24:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> buena
+[02:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> gg
+[02:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pa los 2 p ajas
+[02:25:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 270 times.
+
+[02:25:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> uy
+[02:25:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> una garra me solto el cofre
+[02:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> buena
+[02:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> el galium esta bueno?
+[02:26:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno si
+[02:26:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 275 times.
+
+[02:26:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pero se rompe rapido
+[02:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 280 times.
+
+[02:27:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> 4 de invar
+[02:27:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> nice
+[02:27:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 285 times.
+
+[02:28:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:28:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 290 times.
+
+[02:29:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> uy
+[02:29:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> puedo agarrar los spaners
+[02:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> :v
+[02:29:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 295 times.
+
+[02:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> con el carryon
+[02:29:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
