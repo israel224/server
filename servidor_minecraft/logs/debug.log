@@ -16056,3 +16056,170 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [02:59:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lito
 [03:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Isn't It Iron Pick]
+[03:00:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 480 times.
+
+[03:00:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno hora de subir
+[03:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> ok
+[03:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aternos soporta rlcraft ?
+[03:01:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 485 times.
+
+[03:01:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ya que ustedes con un compa se isieron un sv en ateros
+[03:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aternos
+[03:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> alguien de el server le aguanta rl en aternos, lo digo porque jugue con el
+[03:02:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 490 times.
+
+[03:02:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pero de imaginas que se crashee aternos ?
+[03:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> seria re malo XD
+[03:02:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 495 times.
+
+[03:02:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> lo que acabo de encontrar Xd
+[03:03:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 500 times.
+
+[03:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> que cosa
+[03:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> una papa con aspecto de fuego 2, filo 2
+[03:04:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> eso si es normal xd
+[03:04:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> otro wwaystone
+[03:04:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:04:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 505 times.
+
+[03:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Local Brewery]
+[03:05:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:05:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 510 times.
+
+[03:05:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:06:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 515 times.
+
+[03:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ono
+[03:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> un nido de parasitos...
+[03:06:31] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-50, -7] in dimension 0 (overworld) while populating chunk [-50, -6], causing cascading worldgen lag.
+[03:06:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:06:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[03:06:36] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[03:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aa
+[03:06:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:06:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> donde ?
+[03:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> arriba
+[03:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> en superficie
+[03:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> los matareee
+[03:07:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 520 times.
+
+[03:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[03:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[03:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to z_xbro]
+[03:07:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:07:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:07:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 525 times.
+
+[03:08:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:08:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 530 times.
+
+[03:08:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:09:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 535 times.
+
+[03:09:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:10:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 540 times.
+
+[03:10:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:11:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:11:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 545 times.
+
+[03:11:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:12:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 550 times.
+
+[03:12:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ala mrd
+[03:12:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 555 times.
+
+[03:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> estas bien?
+[03:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no.
+[03:13:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> voy para alla
+[03:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[03:13:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 560 times.
+
+[03:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no es nesesariow
+[03:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> dale
+[03:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> okw
+[03:14:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:14:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 565 times.
+
+[03:14:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> owo}w
+[03:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lito me ise una mochila
+[03:15:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 570 times.
+
+[03:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> pense que no habian
+[03:15:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[03:15:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mrd
+[03:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> un templo de esos dungeons
+[03:16:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 575 times.
+
+[03:16:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:17:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 580 times.
+
+[03:17:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tu crees que estos servers soporten rlcraf t ?
+[03:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> la verdad no se, tocaria calar
+[03:17:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 585 times.
+
+[03:17:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> yo creo que si
+[03:18:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:18:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 590 times.
+
+[03:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Isn't It Iron Pick]
+[03:19:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:19:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 595 times.
+
+[03:20:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:20:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 600 times.
+

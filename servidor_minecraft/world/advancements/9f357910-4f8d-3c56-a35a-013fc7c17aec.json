@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-13 03:10:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2024-12-13 02:09:20 +0000"
@@ -349,6 +355,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-13 03:12:53 +0000",
       "baked_potato": "2024-12-13 02:02:20 +0000",
       "mutton": "2024-12-13 01:50:06 +0000",
       "rotten_flesh": "2024-12-13 01:52:07 +0000"
@@ -436,6 +443,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-13 03:00:06 +0000"
     },
     "done": true
   },
@@ -559,9 +572,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-13 03:07:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-12-13 01:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-13 03:04:29 +0000"
     },
     "done": true
   },
@@ -673,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2024-12-13 03:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-13 01:42:31 +0000"
@@ -706,6 +737,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 01:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-13 03:04:55 +0000"
     },
     "done": true
   },
@@ -760,6 +797,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-12-13 01:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-13 03:12:48 +0000"
     },
     "done": true
   },
@@ -915,10 +958,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-12-13 03:17:05 +0000",
+      "wither_skeleton": "2024-12-13 03:16:57 +0000",
       "zombie_villager": "2024-12-13 02:54:48 +0000",
       "skeleton": "2024-12-13 02:21:23 +0000",
       "husk": "2024-12-13 01:42:24 +0000",
       "cave_spider": "2024-12-13 02:26:55 +0000",
+      "silverfish": "2024-12-13 03:12:02 +0000",
       "zombie": "2024-12-13 02:05:30 +0000",
       "witch": "2024-12-13 02:54:40 +0000",
       "spider": "2024-12-13 02:53:21 +0000",
