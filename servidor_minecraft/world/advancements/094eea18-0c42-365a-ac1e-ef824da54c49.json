@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-13 03:47:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 02:00:59 +0000"
@@ -633,6 +639,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-12-13 03:45:51 +0000",
+      "wither_skeleton": "2024-12-13 03:50:00 +0000",
       "skeleton": "2024-12-13 02:20:31 +0000",
       "husk": "2024-12-13 01:41:47 +0000",
       "cave_spider": "2024-12-13 02:27:57 +0000",
@@ -827,15 +835,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2024-12-13 03:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-13 03:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 03:23:41 +0000"
     },
     "done": true
   },
@@ -1193,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-13 03:47:55 +0000"
+    },
+    "done": true
+  },
   "nocubessrpnests:advsrpnestsaddonroot": {
     "criteria": {
       "advsrpnestsaddonroot": "2024-12-13 01:23:53 +0000"
@@ -1301,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-13 03:47:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-13 01:41:40 +0000"
@@ -1322,6 +1342,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2024-12-13 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-13 03:47:55 +0000"
     },
     "done": true
   },

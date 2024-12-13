@@ -1379,3 +1379,37 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [03:27:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
 [03:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
 [03:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Not Today, Thank You]
+[03:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [A Seedy Place]
+[03:44:47] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[03:44:47] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[03:44:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:44:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:54073] logged in with entity id 13714036 at (-463.06456282799877, 30.0, -361.63546071638336)
+[03:44:48] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[03:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[03:44:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/13714036, l='world', x=-463.06, y=30.00, z=-361.64] connected. Sending ping
+[03:45:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> hi
+[03:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> hi
+[03:45:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> alguna vez pensaste
+[03:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> que yaa no eres el mismo de antes?
+[03:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> varias veces
+[03:45:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> tu?
+[03:46:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si.
+[03:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tuve depresion en un pasado.
+[03:46:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> eso es duro
+[03:46:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> y mi hermano me regalo un perrito y fue lo mejor que me ayudo.
+[03:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> un apoyo emocional dirian
+[03:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si
+[03:47:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> una vez que creces un poco
+[03:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ya no nada es como antes
+[03:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> si, las cosas cambian conforme vas creciendo y madurando
+[03:47:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ya me di cuenta
+[03:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> y se te hace bueno o malo?
+[03:48:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ni uno de los 2
+[03:48:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> solo viene mas responsabilidades
+[03:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> Eso es bueno, vas mejorando entre mas responsabilidades y viendo que te gusta
+[03:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> mientras no abuses de tu cuerpo claro
+[03:49:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> espera qe me saldra un lagrima al recordar que mi perito que me ayudo murio
+[03:50:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Cover Me With Diamonds]
+[03:50:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> lamento tu perdida
