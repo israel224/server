@@ -16223,3 +16223,65 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [03:20:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:20:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 600 times.
 
+[03:20:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Not Today, Thank You]
+[03:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:21:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 605 times.
+
+[03:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> cuantos corazones tienes ?
+[03:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> 10
+[03:22:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 610 times.
+
+[03:22:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirbopoy moved wrongly!
+[03:22:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kirbopoy moved wrongly!
+[03:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ok
+[03:22:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:22:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> tu?
+[03:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> 14
+[03:22:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> a caray
+[03:22:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:22:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 615 times.
+
+[03:23:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:23:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> ultimo piso de la dungeon
+[03:23:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 620 times.
+
+[03:23:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> full nether+w
+[03:23:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> si XD
+[03:24:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 625 times.
+
+[03:24:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:25:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:25:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 630 times.
+
+[03:25:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Suit Up]
+[03:26:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:26:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:26:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 635 times.
+
+[03:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Cover Me With Diamonds]
+[03:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:27:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 640 times.
+
+[03:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> 20 coras
+[03:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> como subes coras?
+[03:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> y
+[03:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> DIGO LA LETRA Y XD
+[03:27:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:27:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[03:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[03:27:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 645 times.
+
+[03:28:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:28:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 650 times.
+
+[03:29:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 655 times.
+
+[03:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Not Today, Thank You]
+[03:29:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:30:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 660 times.
+

@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-13 03:26:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 01:45:50 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-13 02:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-13 03:29:46 +0000"
     },
     "done": true
   },
@@ -355,6 +367,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-13 03:28:00 +0000",
       "cooked_beef": "2024-12-13 03:12:53 +0000",
       "baked_potato": "2024-12-13 02:02:20 +0000",
       "mutton": "2024-12-13 01:50:06 +0000",
@@ -377,6 +390,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-13 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-13 03:26:03 +0000"
     },
     "done": true
   },
@@ -629,6 +648,12 @@
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-13 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-13 03:26:03 +0000"
     },
     "done": true
   },
@@ -950,6 +975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-12-13 03:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-13 01:44:35 +0000"
@@ -958,6 +989,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-12-13 03:24:08 +0000",
       "stray": "2024-12-13 03:17:05 +0000",
       "wither_skeleton": "2024-12-13 03:16:57 +0000",
       "zombie_villager": "2024-12-13 02:54:48 +0000",
