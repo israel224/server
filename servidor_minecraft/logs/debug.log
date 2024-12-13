@@ -16285,3 +16285,41 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [03:29:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:30:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 660 times.
 
+[03:30:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 665 times.
+
+[03:31:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 670 times.
+
+[03:32:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 675 times.
+
+[03:32:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 680 times.
+
+[03:34:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 685 times.
+
+[03:35:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 690 times.
+
+[03:35:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 695 times.
+
+[03:36:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 700 times.
+
+[03:37:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 705 times.
+
+[03:38:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 710 times.
+
+[03:38:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 715 times.
+
+[03:39:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 720 times.
+
+[03:40:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
