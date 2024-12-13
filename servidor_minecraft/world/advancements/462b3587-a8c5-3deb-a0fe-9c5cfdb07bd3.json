@@ -1,0 +1,39 @@
+{
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-12-13 20:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-13 20:41:02 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advsrpnestsaddonroot": {
+    "criteria": {
+      "advsrpnestsaddonroot": "2024-12-13 20:39:46 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-12-13 20:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "river": "2024-12-13 20:40:21 +0000",
+      "desert": "2024-12-13 20:39:46 +0000"
+    },
+    "done": false
+  },
+  "recycler:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-13 20:39:46 +0000"
+    },
+    "done": true
+  }
+}
