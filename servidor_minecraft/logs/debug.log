@@ -16770,3 +16770,71 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [04:10:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 900 times.
 
 [04:10:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:03] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[04:11:11] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[04:11:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 905 times.
+
+[04:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy has made the advancement [Sweet dreams]
+[04:11:49] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [29, 61] in dimension 0 (overworld) while populating chunk [28, 61], causing cascading worldgen lag.
+[04:11:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:11:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 910 times.
+
+[04:12:26] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [21, 68] in dimension 0 (overworld) while populating chunk [20, 68], causing cascading worldgen lag.
+[04:12:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:12:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 915 times.
+
+[04:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[04:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to Kirbopoy]
+[04:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[04:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[04:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[04:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[04:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to Kirbopoy]
+[04:13:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 920 times.
+
+[04:14:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 925 times.
+
+[04:14:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 69] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 66] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 65] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 68] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 67] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:47] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 70] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 69] in dimension 0 (overworld) while populating chunk [22, 72], causing cascading worldgen lag.
+[04:14:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 930 times.
+
+[04:15:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kirbopoy lost connection: Disconnected
+[04:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy left the game
+[04:15:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:19] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 935 times.
+
+[04:16:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:09] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 940 times.
+
+[04:17:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:59] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 945 times.
+
+[04:17:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:49] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 950 times.
+
+[04:19:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:19:39] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 955 times.
+
+[04:20:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:29] [Server thread/DEBUG] [FML]: The world 4f81b461 (world) may have leaked: seen 960 times.
+
+[04:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
