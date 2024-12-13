@@ -977,3 +977,122 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [01:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> piramide
 [01:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> vaya
 [01:49:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tierra firme ?
+[01:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> no :V
+[01:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si es
+[01:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> una aldea
+[01:50:04] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[01:50:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> ahorita te alcanzo
+[01:50:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ok
+[01:50:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Changing to clear weather]
+[01:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Suit Up]
+[01:50:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> herreria
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 11] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 11] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 12] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 11] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 11] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 12] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 12] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 10] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 10] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 11] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 10] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 10] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 13] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 13] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 14] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 13] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 15] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 12] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 13] in dimension 0 (overworld) while populating chunk [-43, 8], causing cascading worldgen lag.
+[01:51:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> un waystone
+[01:51:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> nice
+[01:51:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> se ase de nocehe
+[01:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> vena aldea
+[01:52:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> me abias asustado
+[01:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> XD
+[01:53:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> pera, ya vengo
+[01:53:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> sin ñag
+[01:53:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ok
+[01:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> encierrate
+[01:53:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ahora vengo tmb
+[01:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> XD
+[01:54:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kirbopoy lost connection: Disconnected
+[01:54:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy left the game
+[01:56:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:57:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:59:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:00:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Acquire Hardware]
+[02:01:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:01:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[02:01:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:01:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kirbopoy[/127.247.214.74:43965] logged in with entity id 2033059 at (-512.8922617034692, 66.0, 255.6169248227249)
+[02:01:50] [Server thread/INFO] [dsurround]: Player [Kirbopoy] connected with Dynamic Surroundings 3.6.1.0
+[02:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kirbopoy joined the game
+[02:01:50] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kirbopoy'/2033059, l='world', x=-512.89, y=66.00, z=255.62] connected. Sending ping
+[02:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> hola
+[02:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> hola
+[02:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> toy full netherite
+[02:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> o mejor
+[02:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> :v????
+[02:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> el mineral
+[02:02:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> te dije que esta roto
+[02:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ven
+[02:03:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> toy en la dungeon
+[02:03:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> de la aldea
+[02:03:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> consegui algo de artifacts
+[02:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mira esto
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> ajas XD
+[02:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> es un bu
+[02:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> wow
+[02:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bug
+[02:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> bug?
+[02:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> busca cuanto protege el galium
+[02:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno eso se deve conseguir solo con diamante
+[02:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pero con este mod lo destruye
+[02:04:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> 10 de armor XD
+[02:04:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> se pee
+[02:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mira el daño de su espada
+[02:05:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> re roto XD
+[02:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pero los parasitos son mas
+[02:05:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> esto no sera suficiente
+[02:05:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lo malo de este ore
+[02:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> es que se rompe rapido
+[02:06:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> asemos una mina ?
+[02:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pa encontrar
+[02:06:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> ok
+[02:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> see
+[02:07:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> mas ?
+[02:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> el nitril
+[02:07:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> es blanco
+[02:07:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> aun mas roto no?
+[02:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> es 1 punto menos de protec pero dura mucho
+[02:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> noooooooo
+[02:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> el mejor de todos
+[02:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> invar
+[02:08:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> es mas raro que el diamante
+[02:08:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> y no se como me aparecio
+[02:08:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> ojo
+[02:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no mames
+[02:09:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tengo x ray ?
+[02:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kirbopoy> XD
+[02:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Diamonds!]
