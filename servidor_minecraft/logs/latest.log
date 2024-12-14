@@ -1317,3 +1317,42 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [03:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya tengo tres barra de coras
 [03:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> y un cora de sobra
 [03:11:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> buenan
+[03:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[03:18:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mi casa
+[03:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> he hecho algo q nadi nunca iso
+[03:18:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> esto mira
+[03:18:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ?
+[03:18:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oooooooh
+[03:18:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> una cma:OO
+[03:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Sweet dreams]
+[03:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> full protec 4
+[03:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> we
+[03:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me aparece un texto en la mesa y no se como sacarlo
+[03:20:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[03:20:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mira me como una manzana como si fuera comida de toda la vida
+[03:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ala
+[03:21:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> recupera tus coraxones rapido
+[03:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ooo si
+[03:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ando re cheto
+[03:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ire por mas exp
+[03:23:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bueno no se como usarla
+[03:24:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> que cosa ?
+[03:24:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> la mesa esa
+[03:24:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ve un video y ya;C
+[03:24:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> el mod es : enchating plus
+[03:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ok
+[03:25:10] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[03:25:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4d6b16d2)
+[03:25:10] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[03:25:10] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[03:25:10] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[03:25:11] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:25:11] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[03:25:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4d6b16d2)
+[03:25:11] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[03:25:11] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[03:25:11] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[03:25:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bay me tengo ir
+[03:26:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[03:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
