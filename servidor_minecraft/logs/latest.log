@@ -1198,3 +1198,8 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [20:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
 [20:53:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [20:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Into Fire]
+[21:01:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:02:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:08:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:08:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:08:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity

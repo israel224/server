@@ -16095,3 +16095,46 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [20:58:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 540 times.
 
 [20:58:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 545 times.
+
+[21:00:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 550 times.
+
+[21:01:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 555 times.
+
+[21:01:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:02:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 560 times.
+
+[21:02:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:03:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 565 times.
+
+[21:03:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 570 times.
+
+[21:04:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 575 times.
+
+[21:04:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 580 times.
+
+[21:05:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 585 times.
+
+[21:06:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 590 times.
+
+[21:07:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 595 times.
+
+[21:08:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:08:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:08:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:08:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 600 times.
+
+[21:09:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
