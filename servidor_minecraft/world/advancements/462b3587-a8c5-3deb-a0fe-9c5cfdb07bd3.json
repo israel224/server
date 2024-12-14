@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-14 20:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 21:07:12 +0000"
@@ -365,6 +371,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_the_recipe": "2024-12-13 21:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 20:47:52 +0000"
     },
     "done": true
   },
@@ -687,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-14 20:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-13 20:41:09 +0000"
@@ -828,6 +846,12 @@
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2024-12-13 20:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 20:47:52 +0000"
     },
     "done": true
   },
@@ -976,6 +1000,12 @@
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-14 20:46:23 +0000"
     },
     "done": true
   },
@@ -1689,6 +1719,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-13 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-14 20:46:23 +0000"
     },
     "done": true
   },
