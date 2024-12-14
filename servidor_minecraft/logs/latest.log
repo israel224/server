@@ -1118,3 +1118,56 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [01:38:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
 [01:45:27] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
 [01:45:27] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[01:45:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:45:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:41495] logged in with entity id 8563758 at (-452.30000001192093, 30.0, -351.421258906521)
+[01:45:29] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[01:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[01:45:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/8563758, l='world', x=-452.30, y=30.00, z=-351.42] connected. Sending ping
+[01:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
+[01:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> fue mi pene'?
+[01:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> nose
+[01:45:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> we tas en casa?
+[01:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no
+[01:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[01:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> por que tengo lag
+[01:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> por donde vas pa ir a casa
+[01:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Set own game mode to Spectator Mode]
+[01:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pon antorcha alos spawners
+[01:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> por fa
+[01:46:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tengo lag
+[01:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pera q ni tengo
+[01:46:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Set own game mode to Survival Mode]
+[01:49:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya
+[01:49:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mata alos mobs
+[01:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> del abajo
+[01:49:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
+[01:49:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> y te ago tp donde la base
+[01:49:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka pera
+[01:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> putos parasitos
+[01:52:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya hasme tp
+[01:52:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported santiw18 to z_xbro]
+[01:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> sube arriba
+[01:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya los mate
+[01:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pera
+[01:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> por aca
+[01:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd esa bajada la hice yo jaja
+[01:53:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xD
+[01:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tienes nitril ?
+[01:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> nop
+[01:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tgalium ?
+[01:54:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> tampoco
+[01:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[01:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> tenes cuero?
+[01:55:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no
+[01:55:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> mrd
+[01:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno no se
+[01:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> creo que tengo 23
+[01:55:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
+[01:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pasame 8 si puedes
+[01:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> busca en mis cofres
+[01:56:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ok
+[01:57:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya
+[01:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ok
+[01:59:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[01:59:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[02:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [A Seedy Place]
