@@ -15879,3 +15879,88 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [01:24:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 355 times.
 
 [01:24:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:25:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 360 times.
+
+[01:25:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 360 times.
+
+[01:25:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 365 times.
+
+[01:26:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 365 times.
+
+[01:27:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 370 times.
+
+[01:27:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 370 times.
+
+[01:27:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 375 times.
+
+[01:28:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 375 times.
+
+[01:28:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[01:28:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 380 times.
+
+[01:28:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 380 times.
+
+[01:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> permiso
+[01:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> spera
+[01:29:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ayuda
+[01:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q pongo trampillas
+[01:29:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 was slain by z_xbro
+[01:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> oe XD
+[01:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> mrd we
+[01:29:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 385 times.
+
+[01:29:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 385 times.
+
+[01:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> espero limpio bien
+[01:29:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
+[01:29:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> yo voy llendo
+[01:30:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> despues me haces tp
+[01:30:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 390 times.
+
+[01:30:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 390 times.
+
+[01:30:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> primero pon antorchas en los spawners haci dejan de aparecer y deespues limpias
+[01:30:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported santiw18 to z_xbro]
+[01:31:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 395 times.
+
+[01:31:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 395 times.
+
+[01:31:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> uff josha
+[01:32:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Spooky Scary Skeleton]
+[01:32:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 400 times.
+
+[01:32:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 400 times.
+
+[01:32:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q rico
+[01:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lito
+[01:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> 36 coras
+[01:33:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[01:33:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 405 times.
+
+[01:33:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 405 times.
+
+[01:33:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 410 times.
+
+[01:33:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 410 times.
+
+[01:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mi arco good
+[01:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> cuanto seria 36 coras osea cuantas filas
+[01:34:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> guaaa
+[01:34:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 415 times.
+
+[01:34:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 415 times.
+
+[01:35:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
