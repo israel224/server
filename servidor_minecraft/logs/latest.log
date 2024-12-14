@@ -1356,3 +1356,5 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [03:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bay me tengo ir
 [03:26:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
 [03:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[03:29:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiw18 lost connection: Disconnected
+[03:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 left the game
