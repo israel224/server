@@ -1097,3 +1097,51 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [20:18:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [20:18:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bioma de nieve
 [20:18:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[20:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 has made the advancement [Diamonds!]
+[20:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> 5a
+[20:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[20:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aspecto ignero
+[20:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oe
+[20:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> = comida instantanea
+[20:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> sep
+[20:20:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ontas
+[20:20:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> aca we
+[20:20:49] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[20:21:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me das?
+[20:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> comida
+[20:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q
+[20:21:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[20:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[20:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> comida
+[20:21:51] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:21:51] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[20:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> aw
+[20:21:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:21:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:42119] logged in with entity id 5235076 at (-907.7035189019155, 72.0, -171.80931584194684)
+[20:21:52] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[20:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[20:21:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/5235076, l='world', x=-907.70, y=72.00, z=-171.81] connected. Sending ping
+[20:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[20:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> comida plis
+[20:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> s eme lageo
+[20:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
+[20:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ano
+[20:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[20:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> oe
+[20:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q
+[20:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> geaz
+[20:23:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> grax
+[20:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pantano
+[20:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bueno volvere a casa ya tengo lo q queria
+[20:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> wokw
+[20:23:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: z_xbro moved too quickly! -5.459705655171547,1.455849053932539,-8.493612083087868
+[20:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> wa
+[20:24:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me encanta el sv
+[20:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ami tu culito
+[20:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> 7w7
+[20:27:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> te recito un poema que lindos ojos tienes quiero chuparte el pen3
+[20:27:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:27:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[20:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[20:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd

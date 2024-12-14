@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-14 20:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 21:07:12 +0000"
@@ -443,6 +449,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2024-12-14 02:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-14 20:24:19 +0000"
     },
     "done": true
   },
@@ -1389,7 +1401,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "extreme_hills_with_trees": "2024-12-14 20:19:14 +0000",
       "desert_hills": "2024-12-13 20:46:55 +0000",
+      "extreme_hills": "2024-12-14 20:19:13 +0000",
       "roofed_forest": "2024-12-13 21:28:33 +0000",
       "river": "2024-12-13 20:40:21 +0000",
       "desert": "2024-12-13 20:39:46 +0000"
