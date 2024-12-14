@@ -1218,3 +1218,22 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [02:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [We Need to Go Deeper]
 [02:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q vrg
 [02:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[02:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bueno ahora si a bañarme
+[02:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q
+[02:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[02:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has completed the challenge [Return to Sender]
+[02:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Spooky Scary Skeleton]
+[02:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [A Terrible Fortress]
+[02:38:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Into Fire]
+[02:40:46] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[02:42:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-58, -35] in dimension 0 (overworld) while populating chunk [-57, -30], causing cascading worldgen lag.
+[02:42:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -8.581794987739045,0.0,-5.771034805528075
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -8.802269114706405,0.0,-6.085460582408359
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.009785098983798,0.0,-6.407397398769831
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.20362209951395,0.0,-6.736510284038104
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.383314185900417,0.0,-7.072367327389657
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.548614119430226,0.0,-7.414478395515971
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.699461664268142,0.0,-7.762324357146667
+[02:43:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]

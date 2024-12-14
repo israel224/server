@@ -16467,3 +16467,97 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 
 [02:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q vrg
 [02:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[02:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bueno ahora si a bañarme
+[02:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q
+[02:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[02:36:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:36:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 785 times.
+
+[02:36:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 785 times.
+
+[02:36:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:37:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 790 times.
+
+[02:37:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 790 times.
+
+[02:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has completed the challenge [Return to Sender]
+[02:37:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Spooky Scary Skeleton]
+[02:38:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 795 times.
+
+[02:38:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 795 times.
+
+[02:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [A Terrible Fortress]
+[02:38:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [Into Fire]
+[02:38:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 800 times.
+
+[02:38:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 800 times.
+
+[02:39:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:39:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 805 times.
+
+[02:39:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 805 times.
+
+[02:39:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:40:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 810 times.
+
+[02:40:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 810 times.
+
+[02:40:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:40:46] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[02:40:46] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[02:41:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 815 times.
+
+[02:41:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 815 times.
+
+[02:41:32] [Server thread/DEBUG] [FML]: The world 1c63ee42 (world) may have leaked: first encounter (5 occurrences).
+
+[02:42:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 820 times.
+
+[02:42:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 820 times.
+
+[02:42:22] [Server thread/DEBUG] [FML]: The world 1c63ee42 (world) may have leaked: seen 10 times.
+
+[02:42:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-58, -35] in dimension 0 (overworld) while populating chunk [-57, -30], causing cascading worldgen lag.
+[02:42:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -8.581794987739045,0.0,-5.771034805528075
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -8.802269114706405,0.0,-6.085460582408359
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.009785098983798,0.0,-6.407397398769831
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.20362209951395,0.0,-6.736510284038104
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.383314185900417,0.0,-7.072367327389657
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.548614119430226,0.0,-7.414478395515971
+[02:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of z_xbro) moved too quickly! -9.699461664268142,0.0,-7.762324357146667
+[02:42:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 825 times.
+
+[02:43:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 825 times.
+
+[02:43:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[02:43:12] [Server thread/DEBUG] [FML]: The world 1c63ee42 (world) may have leaked: seen 15 times.
+
+[02:43:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 830 times.
+
+[02:43:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 830 times.
+
+[02:44:02] [Server thread/DEBUG] [FML]: The world 1c63ee42 (world) may have leaked: seen 20 times.
+
+[02:44:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 835 times.
+
+[02:44:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 835 times.
+
+[02:44:52] [Server thread/DEBUG] [FML]: The world 1c63ee42 (world) may have leaked: seen 25 times.
+
+[02:45:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 840 times.
+
+[02:45:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 840 times.
+
+[02:45:42] [Server thread/DEBUG] [FML]: The world 1c63ee42 (world) may have leaked: seen 30 times.
+
+[02:45:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
