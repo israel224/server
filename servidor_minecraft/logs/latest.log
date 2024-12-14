@@ -1,59 +1,59 @@
-[19:28:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:28:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:28:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:28:34] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[19:28:34] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[19:28:34] [main/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
-[19:28:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
-[19:28:34] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
-[19:28:34] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
-[19:28:34] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.6.1_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[19:28:34] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[19:28:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:28:34] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[19:28:34] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/server/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
-[19:28:34] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[19:28:34] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[19:28:35] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[19:28:35] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[19:28:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:28:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:28:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:28:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:28:36] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[19:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[19:28:36] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3ff57625
-[19:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
-[19:28:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:28:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:28:37] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[19:28:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:28:37] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[19:28:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[19:28:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[19:28:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[19:28:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[19:28:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[19:28:37] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[19:28:38] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[19:28:38] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[19:28:39] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
-[19:28:39] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
-[19:28:40] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
-[19:28:40] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
-[19:28:40] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[19:28:42] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
-[19:28:42] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[19:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[19:28:42] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[19:28:42] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[19:28:43] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[19:28:43] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[19:28:43] [Server thread/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
-[19:28:44] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
-[19:28:44] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+[22:08:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:08:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:08:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:08:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:08:02] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:08:03] [main/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
+[22:08:03] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
+[22:08:03] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[22:08:03] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[22:08:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.6.1_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:08:03] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[22:08:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:08:03] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:08:03] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/server/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
+[22:08:03] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[22:08:03] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:08:03] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:08:03] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[22:08:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:08:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:08:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:08:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:08:05] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:08:05] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3ff57625
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:08:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:08:05] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:08:05] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[22:08:05] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[22:08:05] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[22:08:06] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[22:08:06] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[22:08:06] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[22:08:06] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:08:06] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[22:08:07] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[22:08:08] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[22:08:08] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[22:08:08] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[22:08:08] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[22:08:10] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[22:08:11] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[22:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:08:11] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:08:11] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:08:11] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:08:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:08:11] [Server thread/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
+[22:08:12] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
+[22:08:12] [Server thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -71,7 +71,7 @@ java.lang.IllegalArgumentException: null
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:44] [Server thread/ERROR] [FML]: There was a problem reading the entry lumien/chunkanimator/handler/AnimationContext$LevelContext.class in the jar ./mods/ChunkAnimator-1.21-1.3.7.jar - probably a corrupt zip
+[22:08:12] [Server thread/ERROR] [FML]: There was a problem reading the entry lumien/chunkanimator/handler/AnimationContext$LevelContext.class in the jar ./mods/ChunkAnimator-1.21-1.3.7.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -93,7 +93,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 12 more
-[19:28:44] [Server thread/WARN] [FML]: Zip file ChunkAnimator-1.21-1.3.7.jar failed to read properly, it will be ignored
+[22:08:12] [Server thread/WARN] [FML]: Zip file ChunkAnimator-1.21-1.3.7.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -115,10 +115,10 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 12 more
-[19:28:44] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
-[19:28:44] [Server thread/WARN] [FML]: Mod gokistats is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.10
-[19:28:44] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
-[19:28:44] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+[22:08:12] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
+[22:08:12] [Server thread/WARN] [FML]: Mod gokistats is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.10
+[22:08:12] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[22:08:12] [Server thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -136,7 +136,7 @@ java.lang.IllegalArgumentException: null
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:44] [Server thread/ERROR] [FML]: There was a problem reading the entry com/exidex/swingthroughgrass/LeftClickEventHandler.class in the jar ./mods/swingthroughgrass-1.18.2-1.9.1.jar - probably a corrupt zip
+[22:08:12] [Server thread/ERROR] [FML]: There was a problem reading the entry com/exidex/swingthroughgrass/LeftClickEventHandler.class in the jar ./mods/swingthroughgrass-1.18.2-1.9.1.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -158,7 +158,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 12 more
-[19:28:44] [Server thread/WARN] [FML]: Zip file swingthroughgrass-1.18.2-1.9.1.jar failed to read properly, it will be ignored
+[22:08:12] [Server thread/WARN] [FML]: Zip file swingthroughgrass-1.18.2-1.9.1.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -180,108 +180,108 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 12 more
-[19:28:44] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[19:28:45] [Server thread/INFO] [FML]: Forge Mod Loader has identified 39 mods to load
-[19:28:45] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[19:28:45] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
-[19:28:45] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[19:28:45] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[19:28:45] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.21-1.3.7.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:28:45] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.14.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:28:45] [Server thread/INFO] [FML]: FML has found a non-mod file primitivemobs-1.0c-1.7.10.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:28:45] [Server thread/INFO] [FML]: FML has found a non-mod file swingthroughgrass-1.18.2-1.9.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[19:28:45] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, securitycraft, artifacts, baubles, bibliotheca, biomesoplenty, bookshelf, carryon, clumps, corpse, dsurround, eplus, familiarfauna, gokistats, hammertime, waila, jei, mobends, multimob, nocubessrpaddon, nocubessrpnests, nocubessrpsurvival, recycler, additionalstructures, roguelike, spartanshields, srparasites, treechop, uteamcore, usefulbackpacks, waymoreoresmod, waystones, xaerominimap, betteranimalsplus, orelib] at CLIENT
-[19:28:45] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, securitycraft, artifacts, baubles, bibliotheca, biomesoplenty, bookshelf, carryon, clumps, corpse, dsurround, eplus, familiarfauna, gokistats, hammertime, waila, jei, mobends, multimob, nocubessrpaddon, nocubessrpnests, nocubessrpsurvival, recycler, additionalstructures, roguelike, spartanshields, srparasites, treechop, uteamcore, usefulbackpacks, waymoreoresmod, waystones, xaerominimap, betteranimalsplus, orelib] at SERVER
-[19:28:46] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[19:28:47] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[19:28:48] [Server thread/INFO] [FML]: Found 1578 ObjectHolder annotations
-[19:28:48] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[19:28:48] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[19:28:48] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[19:28:48] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[19:28:48] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
-[19:28:48] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
-[19:28:48] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[19:28:48] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: AHEAD Target: null
-[19:28:48] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Found status: UP_TO_DATE Target: null
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [recycler] Found status: UP_TO_DATE Target: null
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Starting version check at https://infinitystudio.github.io/Updates/gokistats.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Found status: AHEAD Target: null
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[19:28:50] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[19:28:50] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[19:28:50] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[19:28:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerwood has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerstone has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammeriron has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammergold has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerdiamond has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelwood has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelstone has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveliron has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelgold has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveldiamond has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxewood has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxestone has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxeiron has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxegold has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxediamond has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklewood has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklestone has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsickleiron has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklegold has been registered by Bibliotheca for the mod hammertime
-[19:28:50] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklediamond has been registered by Bibliotheca for the mod hammertime
-[19:28:51] [Server thread/INFO] [STDOUT]: [xxrexraptorxx.additionalstructures.proxy.CommonProxy:preInit:34]: Mystcraft not found - integration not active
-[19:28:51] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[19:28:53] [Server thread/INFO] [FML]: Applying holder lookups
-[19:28:53] [Server thread/INFO] [FML]: Holder lookups applied
-[19:28:53] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brs net.minecraft.client.model.ModelRenderer
-[19:28:53] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[19:28:53] [Server thread/INFO] [FML]: Applying holder lookups
-[19:28:53] [Server thread/INFO] [FML]: Holder lookups applied
-[19:28:53] [Server thread/INFO] [FML]: Applying holder lookups
-[19:28:53] [Server thread/INFO] [FML]: Holder lookups applied
-[19:28:53] [Server thread/INFO] [FML]: Applying holder lookups
-[19:28:53] [Server thread/INFO] [FML]: Holder lookups applied
-[19:28:53] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:28:53] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[19:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[19:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[19:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[19:28:53] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[19:28:53] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:28:53] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[19:28:53] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:28:53] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recweppurpleblade
+[22:08:13] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[22:08:13] [Server thread/INFO] [FML]: Forge Mod Loader has identified 39 mods to load
+[22:08:13] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:08:13] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
+[22:08:13] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[22:08:13] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[22:08:13] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.21-1.3.7.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:08:13] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.14.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:08:13] [Server thread/INFO] [FML]: FML has found a non-mod file primitivemobs-1.0c-1.7.10.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:08:13] [Server thread/INFO] [FML]: FML has found a non-mod file swingthroughgrass-1.18.2-1.9.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:08:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, securitycraft, artifacts, baubles, bibliotheca, biomesoplenty, bookshelf, carryon, clumps, corpse, dsurround, eplus, familiarfauna, gokistats, hammertime, waila, jei, mobends, multimob, nocubessrpaddon, nocubessrpnests, nocubessrpsurvival, recycler, additionalstructures, roguelike, spartanshields, srparasites, treechop, uteamcore, usefulbackpacks, waymoreoresmod, waystones, xaerominimap, betteranimalsplus, orelib] at CLIENT
+[22:08:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, securitycraft, artifacts, baubles, bibliotheca, biomesoplenty, bookshelf, carryon, clumps, corpse, dsurround, eplus, familiarfauna, gokistats, hammertime, waila, jei, mobends, multimob, nocubessrpaddon, nocubessrpnests, nocubessrpsurvival, recycler, additionalstructures, roguelike, spartanshields, srparasites, treechop, uteamcore, usefulbackpacks, waymoreoresmod, waystones, xaerominimap, betteranimalsplus, orelib] at SERVER
+[22:08:14] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[22:08:16] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:08:16] [Server thread/INFO] [FML]: Found 1578 ObjectHolder annotations
+[22:08:16] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:08:16] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:08:16] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[22:08:16] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:08:16] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Found status: UP_TO_DATE Target: null
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [recycler] Found status: UP_TO_DATE Target: null
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: AHEAD Target: null
+[22:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Starting version check at https://infinitystudio.github.io/Updates/gokistats.json
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [gokistats] Found status: AHEAD Target: null
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[22:08:19] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[22:08:19] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[22:08:19] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[22:08:19] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerwood has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerstone has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammeriron has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammergold has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerdiamond has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelwood has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelstone has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveliron has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelgold has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveldiamond has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxewood has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxestone has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxeiron has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxegold has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxediamond has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklewood has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklestone has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsickleiron has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklegold has been registered by Bibliotheca for the mod hammertime
+[22:08:19] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklediamond has been registered by Bibliotheca for the mod hammertime
+[22:08:21] [Server thread/INFO] [STDOUT]: [xxrexraptorxx.additionalstructures.proxy.CommonProxy:preInit:34]: Mystcraft not found - integration not active
+[22:08:21] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[22:08:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[22:08:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[22:08:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:22] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brs net.minecraft.client.model.ModelRenderer
+[22:08:22] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[22:08:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:22] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:08:22] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:08:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:08:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:08:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[22:08:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:08:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recweppurpleblade
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -299,7 +299,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recwepmaul
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recwepmaul
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -317,7 +317,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recwepgreenblade
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recwepgreenblade
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -335,7 +335,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recwepflesheater
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recwepflesheater
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -353,7 +353,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeyellowhalberd
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeyellowhalberd
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -371,7 +371,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipewaraxedouble
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipewaraxedouble
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -389,7 +389,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipewaraxe
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipewaraxe
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -407,7 +407,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipestringcoiluncraft
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipestringcoiluncraft
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_string'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -423,7 +423,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_string'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipestringcoil
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipestringcoil
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_string'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -441,7 +441,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_string'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeshellbreaker
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeshellbreaker
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -459,7 +459,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipescythecoreblock
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipescythecoreblock
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -477,7 +477,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipescythecore
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipescythecore
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -493,7 +493,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:reciperupterdualaxe
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:reciperupterdualaxe
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -511,7 +511,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipepestillentscythe
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipepestillentscythe
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -529,7 +529,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipelongarmssaber
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipelongarmssaber
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -547,7 +547,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipelivingarmor2
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipelivingarmor2
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -565,7 +565,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipelivingarmor1
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipelivingarmor1
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -583,7 +583,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeheartrapier
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeheartrapier
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -601,7 +601,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipehandles
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipehandles
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -617,7 +617,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipehandleblock
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipehandleblock
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -635,7 +635,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_handle'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipefleshstairs
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipefleshstairs
 com.google.gson.JsonParseException: Missing data for item 'nocubessrpaddon:fleshstairs'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:217) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -651,7 +651,7 @@ com.google.gson.JsonParseException: Missing data for item 'nocubessrpaddon:flesh
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeflamethrowercore
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeflamethrowercore
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -669,7 +669,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeemptyfuelcapsule
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipeemptyfuelcapsule
 com.google.gson.JsonSyntaxException: Unknown item 'nocubessrpaddon:capsule'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -685,7 +685,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'nocubessrpaddon:capsule'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipediggingclaw
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipediggingclaw
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -703,7 +703,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:scythe_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipebowcoreblock
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipebowcoreblock
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -721,7 +721,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:53] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipebowcore
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpaddon:recipebowcore
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_core'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -737,7 +737,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:bow_core'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:54] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[22:08:23] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -752,454 +752,57 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[19:28:54] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[19:28:54] [Server thread/INFO] [FML]: Applying holder lookups
-[19:28:54] [Server thread/INFO] [FML]: Holder lookups applied
-[19:28:54] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19:28:54] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[19:28:54] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:28:54] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:28:54] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19:28:54] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[19:28:54] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[19:28:54] [Server thread/INFO] [Waila]: Starting Waila...
-[19:28:54] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[19:28:54] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[19:28:54] [Server thread/INFO] [Waila]: Registering plugins...
-[19:28:54] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[19:28:54] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[19:28:54] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[19:28:54] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
-[19:28:54] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
-[19:28:54] [Server thread/INFO] [Waila]: Starting Waila took 41.65 ms
-[19:28:54] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 39 mods
-[19:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[19:28:55] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[19:28:55] [Server thread/INFO] [FML]: Applying holder lookups
-[19:28:55] [Server thread/INFO] [FML]: Holder lookups applied
-[19:28:56] [Server thread/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[19:28:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1e7bb9cf)
-[19:28:56] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 774 advancements
-[19:28:56] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
-[19:28:56] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
-[19:28:56] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[19:28:56] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1e7bb9cf)
-[19:28:56] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
-[19:28:56] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
-[19:28:56] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[19:28:56] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[19:28:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1e7bb9cf)
-[19:28:56] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
-[19:28:56] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
-[19:28:56] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[19:28:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[19:28:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
-[19:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.675s)! For help, type "help" or "?"
-[19:28:59] [Server thread/INFO] [FML]: Unloading dimension 1
-[19:28:59] [Server thread/INFO] [FML]: Unloading dimension -1
-[19:28:59] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
-[19:32:39] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[19:32:39] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:32:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:32:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:55883] logged in with entity id 194 at (-445.69999998807907, 5.0, -336.7905259858332)
-[19:32:41] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
-[19:32:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
-[19:32:41] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
-[19:32:41] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/194, l='world', x=-445.70, y=5.00, z=-336.79] connected. Sending ping
-[19:32:42] [Server thread/ERROR] [FML]: An Entity srparasites:biomass(Biomass) has thrown an exception during loading, its state cannot be restored. Report this to the mod author
-net.minecraft.util.ReportedException: Loading entity NBT
-	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1878) ~[vg.class:?]
-	at net.minecraft.entity.EntityList.func_75615_a(EntityList.java:221) [vi.class:?]
-	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186053_a(AnvilChunkLoader.java:602) [aye.class:?]
-	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186050_a(AnvilChunkLoader.java:529) [aye.class:?]
-	at net.minecraft.world.chunk.storage.AnvilChunkLoader.loadEntities(AnvilChunkLoader.java:486) [aye.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOProvider.syncCallback(ChunkIOProvider.java:101) [ChunkIOProvider.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:94) [ChunkIOExecutor.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:118) [on.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.func_186028_c(ChunkProviderServer.java:89) [on.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:135) [on.class:?]
-	at net.minecraft.world.World.func_72964_e(World.java:310) [amu.class:?]
-	at net.minecraft.world.ChunkCache.<init>(ChunkCache.java:37) [and.class:?]
-	at net.minecraft.pathfinding.PathNavigate.func_179680_a(SourceFile:113) [ze.class:?]
-	at net.minecraft.pathfinding.PathNavigateGround.func_179680_a(SourceFile:65) [zd.class:?]
-	at net.minecraft.pathfinding.PathNavigate.func_75488_a(SourceFile:93) [ze.class:?]
-	at net.minecraft.pathfinding.PathNavigate.func_75492_a(SourceFile:143) [ze.class:?]
-	at net.minecraft.entity.ai.EntityAIWander.func_75249_e(SourceFile:65) [yc.class:?]
-	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:102) [xf.class:?]
-	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:763) [vq.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at net.minecraft.entity.monster.EntityZombie.func_70636_d(EntityZombie.java:223) [adt.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entity.EntityCoyote cannot be cast to com.dhanantry.scapeandrunparasites.entity.ai.EntityParasiteBase
-	at com.dhanantry.scapeandrunparasites.entity.monster.EntityBiomass.func_70037_a(EntityBiomass.java:468) ~[EntityBiomass.class:?]
-	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1866) ~[vg.class:?]
-	... 35 more
-[19:32:42] [Server thread/ERROR] [FML]: An Entity srparasites:biomass(Biomass) has thrown an exception during loading, its state cannot be restored. Report this to the mod author
-net.minecraft.util.ReportedException: Loading entity NBT
-	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1878) ~[vg.class:?]
-	at net.minecraft.entity.EntityList.func_75615_a(EntityList.java:221) [vi.class:?]
-	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186053_a(AnvilChunkLoader.java:602) [aye.class:?]
-	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186050_a(AnvilChunkLoader.java:529) [aye.class:?]
-	at net.minecraft.world.chunk.storage.AnvilChunkLoader.loadEntities(AnvilChunkLoader.java:486) [aye.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOProvider.syncCallback(ChunkIOProvider.java:101) [ChunkIOProvider.class:?]
-	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:94) [ChunkIOExecutor.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:118) [on.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.func_186028_c(ChunkProviderServer.java:89) [on.class:?]
-	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:135) [on.class:?]
-	at net.minecraft.world.World.func_72964_e(World.java:310) [amu.class:?]
-	at net.minecraft.world.ChunkCache.<init>(ChunkCache.java:37) [and.class:?]
-	at net.minecraft.pathfinding.PathNavigate.func_179680_a(SourceFile:113) [ze.class:?]
-	at net.minecraft.pathfinding.PathNavigateGround.func_179680_a(SourceFile:65) [zd.class:?]
-	at net.minecraft.pathfinding.PathNavigate.func_75488_a(SourceFile:93) [ze.class:?]
-	at net.minecraft.pathfinding.PathNavigate.func_75492_a(SourceFile:143) [ze.class:?]
-	at net.minecraft.entity.ai.EntityAIWander.func_75249_e(SourceFile:65) [yc.class:?]
-	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:102) [xf.class:?]
-	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:763) [vq.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at net.minecraft.entity.monster.EntityZombie.func_70636_d(EntityZombie.java:223) [adt.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entity.EntityCoyote cannot be cast to com.dhanantry.scapeandrunparasites.entity.ai.EntityParasiteBase
-	at com.dhanantry.scapeandrunparasites.entity.monster.EntityBiomass.func_70037_a(EntityBiomass.java:468) ~[EntityBiomass.class:?]
-	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1866) ~[vg.class:?]
-	... 35 more
-[19:35:00] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[19:35:00] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 42 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:35:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:35:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santiw18[/127.106.105.98:40673] logged in with entity id 205922 at (-443.8998855926495, 5.0, -333.6561476137627)
-[19:35:04] [Server thread/INFO] [dsurround]: Player [santiw18] connected with Dynamic Surroundings 3.6.1.0
-[19:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 joined the game
-[19:35:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['santiw18'/205922, l='world', x=-443.90, y=5.00, z=-333.66] connected. Sending ping
-[19:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> holaa
-[19:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> utilizaras ¿
-[19:36:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lo apagare xd
-[19:36:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> saolo te ayudo
-[19:36:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> solo
-[19:36:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> deja eso
-[19:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no se ira
-[19:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ire a descactivarlo
-[19:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q cosa?
-[19:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> los spaners
-[19:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
-[19:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> una pregunta
-[19:37:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q
-[19:38:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> el server se puede actualizar
-[19:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> como es eso
-[19:38:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> osea mejorar de vercion
-[19:38:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> cambiar de version =?
-[19:38:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> si
-[19:38:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> como si los mods son 1.12.2 ;V
-[19:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[19:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> si fuera vanilla si se puede
-[19:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ps ya pensaste en agregar el vampirism?
-[19:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> e verdad
-[19:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q lindo sin lag
-[19:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ire a arriba
-[19:39:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> sin lag
-[19:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> si
-[19:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lito
-[19:42:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tengo una armor de dioses
-[19:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> we como se encanta
-[19:42:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> solo sube el enchant
-[19:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ai te dira protec tal
-[19:42:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> como?
-[19:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> y lo subis asta el nivel que queras . cuando esta lito eso machuhca el libro de enchat
-[19:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> lito
-[19:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> el mas cheto
-[19:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya aprendi xd
-[19:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> toca minar
-[19:45:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pero un chingo para la xp
-[19:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> o mobs
-[19:45:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xxxd
-[19:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> los mods son la mejor opcion
-[19:45:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
-[19:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> si voy por mob
-[19:45:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me voy a chetar asta el culo
-[19:46:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[19:49:23] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[19:49:23] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:49:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:49:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Luis030405[/127.15.55.206:56379] logged in with entity id 1660791 at (-449.3844341693953, 10.0, -333.7603926998229)
-[19:49:25] [Server thread/INFO] [dsurround]: Player [Luis030405] connected with Dynamic Surroundings 3.6.1.0
-[19:49:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 joined the game
-[19:49:25] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Luis030405'/1660791, l='world', x=-449.38, y=10.00, z=-333.76] connected. Sending ping
-[19:49:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Luis030405 lost connection: Timed out
-[19:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 left the game
-[19:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> perame ya vengo
-[19:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
-[19:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
-[19:49:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiw18 lost connection: Disconnected
-[19:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 left the game
-[19:50:14] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[19:50:14] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 42 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:50:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:50:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santiw18[/127.106.105.98:42659] logged in with entity id 1740321 at (-452.80158589891465, 11.0, -347.69999998807907)
-[19:50:17] [Server thread/INFO] [dsurround]: Player [santiw18] connected with Dynamic Surroundings 3.6.1.0
-[19:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 joined the game
-[19:50:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['santiw18'/1740321, l='world', x=-452.80, y=11.00, z=-347.70] connected. Sending ping
-[19:50:41] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[19:50:41] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:50:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:50:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Luis030405[/127.15.55.206:60325] logged in with entity id 1783381 at (-449.3844341693953, 10.0, -333.7603926998229)
-[19:50:43] [Server thread/INFO] [dsurround]: Player [Luis030405] connected with Dynamic Surroundings 3.6.1.0
-[19:50:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 joined the game
-[19:50:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Luis030405'/1783381, l='world', x=-449.38, y=10.00, z=-333.76] connected. Sending ping
-[19:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mira cuanto baja mi espada
-[19:51:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> weyes voy a quitar todas las antorchas de aqui
-[19:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> no me anda el no ni el dos xd
-[19:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tienes 32 coras
-[19:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ¿
-[19:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> pa q aparecan mas bichos
-[19:51:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> si
-[19:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> quit alas antor
-[19:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> chas
-[19:51:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oa
-[19:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> ya
-[19:52:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya me anda el y el 2
-[19:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> el 1
-[19:52:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> como llego asta hay
-[19:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
-[19:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> to ?
-[19:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tp ?
-[19:52:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to Luis030405]
-[19:52:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> aaa me dieron negritis
-[19:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bevn
-[19:52:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> la casa ?
-[19:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> a la zona de farmeo
-[19:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pero por eso
-[19:53:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ise un tunel
-[19:53:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> desde la casa
-[19:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> ahh
-[19:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
-[19:53:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Luis030405 lost connection: Timed out
-[19:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 left the game
-[19:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[19:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> hey bad plis pon el vampoirism mod
-[19:54:19] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[19:54:19] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:54:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:54:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Luis030405[/127.15.55.206:51517] logged in with entity id 2133971 at (-444.0161585928007, 20.20000004768372, -364.442128549293)
-[19:54:20] [Server thread/INFO] [dsurround]: Player [Luis030405] connected with Dynamic Surroundings 3.6.1.0
-[19:54:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 joined the game
-[19:54:20] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Luis030405'/2133971, l='world', x=-444.02, y=20.20, z=-364.44] connected. Sending ping
-[19:54:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
-[19:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
-[19:54:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:54:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[19:54:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:54:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:34297] logged in with entity id 2184072 at (-426.5210699570689, 17.0, -354.7205991291868)
-[19:54:51] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
-[19:54:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
-[19:54:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/2184072, l='world', x=-426.52, y=17.00, z=-354.72] connected. Sending ping
-[19:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ven
-[19:55:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pera
-[19:55:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ven oe
-[19:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> no tengo comida
-[19:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ati no
-[19:55:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> asme tp
-[19:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> a luis
-[19:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[19:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported Luis030405 to z_xbro]
-[19:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> venw
-[19:56:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ven
-[19:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 burned to death
-[19:56:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[19:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> mrd
-[19:56:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[19:56:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[19:56:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[19:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aca
-[19:57:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
-[19:57:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
-[19:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> permiso
-[20:01:13] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[20:01:13] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[20:01:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:01:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:47919] logged in with entity id 2784116 at (-444.92817916140035, 5.0, -336.16822472823094)
-[20:01:15] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
-[20:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
-[20:01:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/2784116, l='world', x=-444.93, y=5.00, z=-336.17] connected. Sending ping
-[20:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> apagare los spawnresç
-[20:05:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> o lo usaean ?
-[20:05:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> yo no los usare
-[20:06:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:08:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> uff full prote cuatro
-[20:09:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:09:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> yo full prtec 4 y todos los demas enchants
-[20:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[20:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> AL MAXXXXXXXXXX
-[20:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
-[20:10:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:10:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:11:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to Luis030405]
-[20:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
-[20:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> 72 coras alv
-[20:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> quien ?
-[20:12:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> tu w
-[20:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> menos XD
-[20:12:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> osea 73 de vida
-[20:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> wey cual es la mejor espada?
-[20:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> el radicum es el mejor ore
-[20:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> tenes hojas?
-[20:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> hoja sde arboles A?
-[20:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> osea perdon quise decir caña de azucar
-[20:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> no
-[20:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> sabes q mejor saldre a buscar
-[20:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mi pico instaminea;)
-[20:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
-[20:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> oe
-[20:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> weon
-[20:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q
-[20:16:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aa
-[20:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ayuda
-[20:16:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[20:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> facil xd
-[20:17:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> vamo a explorar
-[20:17:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:17:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
-[20:17:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tmira
-[20:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> caña
-[20:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pera q me cargen los chunks
-[20:18:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> josha
-[20:18:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:18:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:18:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bioma de nieve
-[20:18:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
-[20:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 has made the advancement [Diamonds!]
-[20:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> 5a
-[20:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[20:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> aspecto ignero
-[20:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oe
-[20:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> = comida instantanea
-[20:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> sep
-[20:20:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ontas
-[20:20:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> aca we
-[20:20:49] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[20:21:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me das?
-[20:21:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> comida
-[20:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q
-[20:21:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
-[20:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
-[20:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> comida
-[20:21:51] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[20:21:51] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[20:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> aw
-[20:21:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:21:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:42119] logged in with entity id 5235076 at (-907.7035189019155, 72.0, -171.80931584194684)
-[20:21:52] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
-[20:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
-[20:21:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/5235076, l='world', x=-907.70, y=72.00, z=-171.81] connected. Sending ping
-[20:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
-[20:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> comida plis
-[20:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> s eme lageo
-[20:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
-[20:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ano
-[20:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
-[20:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> oe
-[20:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q
-[20:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> geaz
-[20:23:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> grax
-[20:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> pantano
-[20:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bueno volvere a casa ya tengo lo q queria
-[20:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> wokw
-[20:23:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: z_xbro moved too quickly! -5.459705655171547,1.455849053932539,-8.493612083087868
-[20:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> wa
-[20:24:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:26:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me encanta el sv
-[20:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ami tu culito
-[20:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> 7w7
-[20:27:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> te recito un poema que lindos ojos tienes quiero chuparte el pen3
-[20:27:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:27:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
-[20:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
-[20:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
-[20:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
-[20:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> se me lageo todo con eso XD
-[20:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> jaajaj
-[20:30:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> cuanto te quita
-[20:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> usa la cama
-[20:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 has made the advancement [Sweet dreams]
-[20:31:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ya
-[20:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> parate
-[20:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> cuanto quita
-[20:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 was shot by santiw18
-[20:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xddd
-[20:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> me vajo las tres filas AJAJAJ
-[20:31:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
-[20:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> tienes hilo?+
-[20:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> sep
-[20:32:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> me regalas 3?
-[20:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> quedate todo
-[20:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> gracias
-[20:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> dnd
-[20:35:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:37:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> oigan pero si hay parasitos? asta ahorita solo eh visto 3
-[20:37:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> es q aparecen en poca luz y en la superficie
-[20:37:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> ahh
-[20:39:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:40:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Luis030405 lost connection: Disconnected
-[20:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Luis030405 left the game
-[20:45:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:45:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[20:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[20:46:16] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[20:46:16] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
-[20:46:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:46:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:50943] logged in with entity id 8105907 at (-909.6869732750818, 75.0, -330.2166121980086)
-[20:46:17] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
-[20:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
-[20:46:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/8105907, l='world', x=-909.69, y=75.00, z=-330.22] connected. Sending ping
-[20:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> hola
-[20:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> callla mrd
-[20:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ;(
-[20:46:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> :-
-[20:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
-[20:50:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ay
-[20:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pense que eras un zombi
-[20:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ahora vengo ga!!!!!!!!!!!!!!
-[20:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ok
-[20:52:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:52:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
-[20:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
-[20:53:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Into Fire]
-[21:01:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:02:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:08:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:08:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[21:08:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:08:23] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[22:08:23] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:23] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:23] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:08:23] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
+[22:08:23] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:08:23] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:08:23] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:08:23] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
+[22:08:23] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[22:08:23] [Server thread/INFO] [Waila]: Starting Waila...
+[22:08:23] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[22:08:23] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[22:08:23] [Server thread/INFO] [Waila]: Registering plugins...
+[22:08:23] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[22:08:23] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[22:08:23] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[22:08:23] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[22:08:23] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
+[22:08:23] [Server thread/INFO] [Waila]: Starting Waila took 54.50 ms
+[22:08:24] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 39 mods
+[22:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:08:24] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:08:25] [Server thread/INFO] [FML]: Applying holder lookups
+[22:08:25] [Server thread/INFO] [FML]: Holder lookups applied
+[22:08:25] [Server thread/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[22:08:25] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@61d95f5f)
+[22:08:25] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 774 advancements
+[22:08:25] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
+[22:08:25] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
+[22:08:25] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[22:08:25] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@61d95f5f)
+[22:08:25] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
+[22:08:25] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[22:08:25] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[22:08:25] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[22:08:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@61d95f5f)
+[22:08:25] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[22:08:25] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[22:08:25] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[22:08:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:08:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 11%
+[22:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.481s)! For help, type "help" or "?"
+[22:08:28] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:08:28] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:08:28] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[22:10:38] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:10:38] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[22:10:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:10:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:34983] logged in with entity id 194 at (-452.30000001192093, 11.0, -405.09824322836926)
+[22:10:40] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[22:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[22:10:40] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/194, l='world', x=-452.30, y=11.00, z=-405.10] connected. Sending ping
+[22:10:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
