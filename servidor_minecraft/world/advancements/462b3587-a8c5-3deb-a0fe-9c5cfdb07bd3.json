@@ -321,6 +321,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-13 21:07:59 +0000",
       "baked_potato": "2024-12-13 22:44:04 +0000",
+      "golden_apple": "2024-12-14 03:04:44 +0000",
       "rotten_flesh": "2024-12-13 21:20:44 +0000",
       "golden_carrot": "2024-12-13 21:31:03 +0000",
       "beetroot": "2024-12-13 21:48:52 +0000",
@@ -556,6 +557,13 @@
       "get_stone": "2024-12-13 21:38:43 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "phantasmagoric_inferno": "2024-12-14 03:01:00 +0000",
+      "visceral_heap": "2024-12-14 02:58:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
