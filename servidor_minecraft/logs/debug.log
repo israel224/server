@@ -15278,3 +15278,132 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [00:33:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 50 times.
 
 [00:34:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:34:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 55 times.
+
+[00:34:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 55 times.
+
+[00:34:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> y cuero
+[00:35:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:35:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 60 times.
+
+[00:35:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 60 times.
+
+[00:36:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[00:36:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 65 times.
+
+[00:36:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 65 times.
+
+[00:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me estabas siguiendo?
+[00:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> si xq
+[00:36:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:36:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[00:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ontas
+[00:37:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: liampro160 has made the advancement [Isn't It Iron Pick]
+[00:37:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 70 times.
+
+[00:37:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 70 times.
+
+[00:37:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:38:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 75 times.
+
+[00:38:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 75 times.
+
+[00:38:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:38:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:38:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:38:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ontas q no te veo
+[00:38:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:38:50] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:38:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:38:50] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[00:38:50] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[00:38:51] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:38:51] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[00:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> bajate
+[00:38:52] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:38:52] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[00:38:52] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:38:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:38:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:49683] logged in with entity id 1559647 at (-443.59577487742183, 10.0, -341.0033738459372)
+[00:38:52] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[00:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[00:38:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/1559647, l='world', x=-443.60, y=10.00, z=-341.00] connected. Sending ping
+[00:38:52] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:38:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 80 times.
+
+[00:38:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 80 times.
+
+[00:38:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> oa
+[00:39:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> uy todo mal
+[00:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ontas liam
+[00:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported santiw18 to liampro160]
+[00:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> no te veo weon
+[00:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[00:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> sono de recoleccion?
+[00:39:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 85 times.
+
+[00:39:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 85 times.
+
+[00:39:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> santi
+[00:39:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q
+[00:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> me traes 9 puertas de valla '
+[00:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> no tengo ni madera
+[00:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[00:40:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 90 times.
+
+[00:40:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 90 times.
+
+[00:40:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> che flaco q hiciste aca
+[00:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> se bugeo el agua xd
+[00:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> creo q toca romper hay
+[00:41:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:41:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 95 times.
+
+[00:41:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 95 times.
+
+[00:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ma asustaste
+[00:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> no era aca la sona?
+[00:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> xd
+[00:42:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> DEJA
+[00:42:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> eso no
+[00:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> despues toca sacar las antorchas
+[00:42:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 100 times.
+
+[00:42:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 100 times.
+
+[00:42:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> ES PARA Q NO ENTRE EL AGUA
+[00:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pongan una mesa de crafteo
+[00:42:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> una mesaa
+[00:42:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:43:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> alto arco me encontre
+[00:43:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 105 times.
+
+[00:43:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 105 times.
+
+[00:43:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> es mio
+[00:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> mentira weon
+[00:43:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mira
+[00:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> para q lava
+[00:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[00:43:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> eso no we
+[00:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> este
+[00:43:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:43:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> maderaa
+[00:43:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> tiene de todo un poo
+[00:43:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 110 times.
+
+[00:43:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 110 times.
+
+[00:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> maderaaaaaaaaaaaaaaaa dios
+[00:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ya no
+[00:44:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 115 times.
+
+[00:44:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 115 times.
+
