@@ -15407,3 +15407,117 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 
 [00:44:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 115 times.
 
+[00:45:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:45:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 120 times.
+
+[00:45:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 120 times.
+
+[00:45:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:46:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 125 times.
+
+[00:46:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 125 times.
+
+[00:46:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 130 times.
+
+[00:47:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 130 times.
+
+[00:47:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Timed out
+[00:47:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[00:48:02] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:48:02] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:48:02] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:48:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 135 times.
+
+[00:48:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 135 times.
+
+[00:48:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:48:03] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:48:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:48:03] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[00:48:03] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[00:48:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:48:03] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[00:48:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:48:04] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[00:48:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:48:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:48:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:49237] logged in with entity id 2687949 at (-442.5346943147223, 5.0, -336.71207623146046)
+[00:48:04] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[00:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[00:48:04] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/2687949, l='world', x=-442.53, y=5.00, z=-336.71] connected. Sending ping
+[00:48:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:48:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[00:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[00:48:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 140 times.
+
+[00:48:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 140 times.
+
+[00:48:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:48:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:48:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:48:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:48:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:48:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:48:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[00:48:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[00:49:00] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:49:00] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[00:49:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:49:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[00:49:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:49:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:49:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:47235] logged in with entity id 2801261 at (-441.3699807642809, 4.0, -337.5426316373893)
+[00:49:01] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[00:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[00:49:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/2801261, l='world', x=-441.37, y=4.00, z=-337.54] connected. Sending ping
+[00:49:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:49:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 145 times.
+
+[00:49:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 145 times.
+
+[00:50:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 150 times.
+
+[00:50:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 150 times.
+
+[00:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> mira esta wea es infinita
+[00:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> me voy a cmoer
+[00:51:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiw18 lost connection: Disconnected
+[00:51:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 left the game
+[00:51:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:51:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 155 times.
+
+[00:51:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 155 times.
+
+[00:51:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> q paso aca
+[00:52:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 160 times.
+
+[00:52:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 160 times.
+
+[00:52:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> ayuda mama
+[00:52:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 165 times.
+
+[00:53:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 165 times.
+
+[00:53:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> badang?
+[00:53:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> q
+[00:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to liampro160]
+[00:53:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 170 times.
+
+[00:53:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 170 times.
+
+[00:53:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> q hiciste
+[00:54:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:54:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 175 times.
+
+[00:54:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 175 times.
+
+[00:54:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
