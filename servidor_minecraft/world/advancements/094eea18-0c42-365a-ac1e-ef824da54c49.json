@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-13 21:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pillar_quartz_block": {
     "criteria": {
       "has_quartz_block": "2024-12-13 03:23:41 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-13 22:25:08 +0000"
     },
     "done": true
   },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-13 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-13 02:38:51 +0000"
@@ -245,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-13 22:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2024-12-13 03:10:21 +0000"
@@ -254,6 +278,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 03:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 22:23:14 +0000"
     },
     "done": true
   },
@@ -283,6 +313,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-13 22:33:46 +0000",
+      "cooked_mutton": "2024-12-13 22:00:00 +0000",
+      "cooked_beef": "2024-12-13 22:42:54 +0000",
       "baked_potato": "2024-12-13 01:51:36 +0000",
       "potato": "2024-12-13 01:50:19 +0000",
       "rotten_flesh": "2024-12-13 01:45:07 +0000"
@@ -292,6 +325,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-13 01:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 23:15:12 +0000"
     },
     "done": true
   },
@@ -319,9 +358,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:07:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-13 21:17:58 +0000"
     },
     "done": true
   },
@@ -361,6 +412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-13 22:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-13 03:04:05 +0000"
@@ -397,9 +454,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-13 22:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-13 03:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-13 22:25:08 +0000"
     },
     "done": true
   },
@@ -442,6 +511,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-13 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-13 22:25:08 +0000"
     },
     "done": true
   },
@@ -493,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2024-12-13 21:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 03:11:50 +0000"
@@ -508,6 +589,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-14 00:18:08 +0000"
     },
     "done": true
   },
@@ -556,6 +643,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-13 02:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-13 22:59:38 +0000"
     },
     "done": true
   },
@@ -649,16 +742,26 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 22:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-12-13 22:42:15 +0000",
       "stray": "2024-12-13 03:45:51 +0000",
       "wither_skeleton": "2024-12-13 03:50:00 +0000",
+      "zombie_villager": "2024-12-13 22:44:04 +0000",
       "skeleton": "2024-12-13 02:20:31 +0000",
       "husk": "2024-12-13 01:41:47 +0000",
       "evoker": "2024-12-13 03:55:34 +0000",
       "cave_spider": "2024-12-13 02:27:57 +0000",
       "zombie": "2024-12-13 01:53:01 +0000",
-      "spider": "2024-12-13 02:21:00 +0000"
+      "spider": "2024-12-13 02:21:00 +0000",
+      "creeper": "2024-12-13 21:16:05 +0000",
+      "enderman": "2024-12-13 20:59:12 +0000"
     },
     "done": false
   },
@@ -860,6 +963,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-13 22:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-12-14 00:07:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-13 03:11:50 +0000"
@@ -917,6 +1032,18 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-13 02:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-13 22:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-13 21:17:58 +0000"
     },
     "done": true
   },
@@ -989,6 +1116,12 @@
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2024-12-13 01:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 22:23:14 +0000"
     },
     "done": true
   },
@@ -1196,6 +1329,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-13 21:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 01:50:45 +0000"
@@ -1208,14 +1347,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-13 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-13 22:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-13 03:00:19 +0000",
       "swampland": "2024-12-13 20:46:41 +0000",
       "birch_forest": "2024-12-13 20:47:47 +0000",
+      "extreme_hills_with_trees": "2024-12-13 21:05:39 +0000",
       "desert_hills": "2024-12-13 01:43:25 +0000",
       "forest_hills": "2024-12-13 01:56:50 +0000",
       "plains": "2024-12-13 01:50:23 +0000",
+      "birch_forest_hills": "2024-12-13 21:00:07 +0000",
+      "extreme_hills": "2024-12-13 21:02:41 +0000",
       "roofed_forest": "2024-12-13 02:06:41 +0000",
       "river": "2024-12-13 01:41:34 +0000",
       "desert": "2024-12-13 01:23:53 +0000"
@@ -1354,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-13 22:25:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-13 01:41:40 +0000"
@@ -1462,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 22:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2024-12-13 02:11:52 +0000"
@@ -1495,6 +1661,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-13 02:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2024-12-13 22:59:38 +0000"
     },
     "done": true
   }
