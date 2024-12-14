@@ -1045,3 +1045,46 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [01:14:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> 1 palo ?
 [01:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> se
 [01:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> me gusta mi creacion
+[01:15:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> solo falta medera
+[01:15:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> para maximisarla
+[01:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> solo faltan tolvas
+[01:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> deja mando foto
+[01:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[01:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> me pregunto como el server nose lagea con estos mobs
+[01:18:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> ni yo se
+[01:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> cuantos coras ?
+[01:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> 24
+[01:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> casi 30 yo
+[01:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> hay limite?
+[01:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> de que
+[01:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> de coras
+[01:20:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> coras?
+[01:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> nose
+[01:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> xd
+[01:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <liampro160> me tengo q ir un rato
+[01:20:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ok
+[01:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> yo me ire a la superficie
+[01:20:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: liampro160 lost connection: Disconnected
+[01:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: liampro160 left the game
+[01:21:45] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:21:45] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 42 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[01:21:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:21:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santiw18[/127.53.247.9:57845] logged in with entity id 6229619 at (-449.34652051054576, 7.0, -347.69999998807907)
+[01:21:47] [Server thread/INFO] [dsurround]: Player [santiw18] connected with Dynamic Surroundings 3.6.1.0
+[01:21:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 joined the game
+[01:21:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:21:47] [Server thread/INFO] [Waila]: Player EntityPlayerMP['santiw18'/6229619, l='world', x=-449.35, y=7.00, z=-347.70] connected. Sending ping
+[01:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> justo liam se va y tu te unes
+[01:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q onda
+[01:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
+[01:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> bueno la granja esta iizi
+[01:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> oka
+[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ta cargada
+[01:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> e+se+
+[01:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q ricoo
+[01:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> todo gracias a mi
+[01:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> hay un defecto
+[01:23:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ?
+[01:23:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> tendrias q poner una losa mas por los zombies bebes y las arañas se salen
+[01:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> por eso me vine a la superficie :V
+[01:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
