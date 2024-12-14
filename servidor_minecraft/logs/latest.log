@@ -1209,3 +1209,12 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [02:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
 [02:24:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> eso queria hacerlo yo xd
 [02:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> :/afk (razon:bañarse)
+[02:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[02:34:42] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[02:34:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4d6b16d2)
+[02:34:42] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[02:34:42] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[02:34:42] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[02:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [We Need to Go Deeper]
+[02:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q vrg
+[02:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a

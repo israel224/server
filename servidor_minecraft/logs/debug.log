@@ -16397,3 +16397,73 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [02:25:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 720 times.
 
 [02:25:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 725 times.
+
+[02:26:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 725 times.
+
+[02:27:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 730 times.
+
+[02:27:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 730 times.
+
+[02:27:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:28:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 735 times.
+
+[02:28:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 735 times.
+
+[02:28:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:28:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 740 times.
+
+[02:28:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 740 times.
+
+[02:29:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:29:42] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 745 times.
+
+[02:29:42] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 745 times.
+
+[02:30:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:30:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 750 times.
+
+[02:30:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 750 times.
+
+[02:30:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:31:22] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 755 times.
+
+[02:31:22] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 755 times.
+
+[02:31:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[02:32:12] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 760 times.
+
+[02:32:12] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 760 times.
+
+[02:32:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:02] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 765 times.
+
+[02:33:02] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 765 times.
+
+[02:33:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:52] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 770 times.
+
+[02:33:52] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 770 times.
+
+[02:34:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:34:42] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[02:34:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4d6b16d2)
+[02:34:42] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[02:34:42] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[02:34:42] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[02:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro has made the advancement [We Need to Go Deeper]
+[02:34:43] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 775 times.
+
+[02:34:43] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 775 times.
+
+[02:35:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:35:32] [Server thread/DEBUG] [FML]: The world 4ceb8b9d (world) may have leaked: seen 780 times.
+
+[02:35:32] [Server thread/DEBUG] [FML]: The world 52a8560e (world) may have leaked: seen 780 times.
+
+[02:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> q vrg
+[02:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> a
