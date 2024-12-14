@@ -1187,3 +1187,14 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [20:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> callla mrd
 [20:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ;(
 [20:46:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> :-
+[20:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[20:50:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ay
+[20:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pense que eras un zombi
+[20:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ahora vengo ga!!!!!!!!!!!!!!
+[20:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ok
+[20:52:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:52:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[20:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[20:53:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Into Fire]

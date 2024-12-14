@@ -16047,3 +16047,51 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [20:48:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 480 times.
 
 [20:49:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 485 times.
+
+[20:49:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [z_xbro: Teleported z_xbro to santiw18]
+[20:50:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ay
+[20:50:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 490 times.
+
+[20:50:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> pense que eras un zombi
+[20:51:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 495 times.
+
+[20:51:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> ahora vengo ga!!!!!!!!!!!!!!
+[20:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> ok
+[20:52:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:52:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:52:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
+[20:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
+[20:52:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 500 times.
+
+[20:52:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:53:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 505 times.
+
+[20:53:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:53:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:53:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 510 times.
+
+[20:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Into Fire]
+[20:54:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 515 times.
+
+[20:55:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:55:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 520 times.
+
+[20:55:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 525 times.
+
+[20:56:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 530 times.
+
+[20:57:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 535 times.
+
+[20:58:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 540 times.
+
+[20:58:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
