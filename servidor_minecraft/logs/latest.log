@@ -1171,3 +1171,12 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [01:59:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
 [01:59:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
 [02:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [A Seedy Place]
+[02:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> bad escribeme por el server
+[02:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> osea por el host
+[02:15:31] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:15:31] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[02:15:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:15:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:38215] logged in with entity id 11468878 at (-510.95565222620934, 22.0, -418.65345625856753)
+[02:15:33] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[02:15:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[02:15:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/11468878, l='world', x=-510.96, y=22.00, z=-418.65] connected. Sending ping
