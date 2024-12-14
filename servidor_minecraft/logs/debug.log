@@ -16138,3 +16138,40 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [21:08:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 600 times.
 
 [21:09:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 605 times.
+
+[21:10:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:10:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 610 times.
+
+[21:10:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 615 times.
+
+[21:11:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 620 times.
+
+[21:12:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 625 times.
+
+[21:13:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 630 times.
+
+[21:13:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 635 times.
+
+[21:15:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 640 times.
+
+[21:16:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 645 times.
+
+[21:16:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 650 times.
+
+[21:17:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 655 times.
+
+[21:18:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 660 times.
+
+[21:19:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
