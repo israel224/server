@@ -806,3 +806,4 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [22:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
 [22:10:40] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/194, l='world', x=-452.30, y=11.00, z=-405.10] connected. Sending ping
 [22:10:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
+[22:24:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
