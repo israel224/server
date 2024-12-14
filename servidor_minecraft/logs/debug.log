@@ -15211,3 +15211,66 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [22:27:37] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 115 times.
 
 [22:27:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:28:27] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 120 times.
+
+[22:28:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:17] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 125 times.
+
+[22:29:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:07] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 130 times.
+
+[22:30:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:57] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 135 times.
+
+[22:30:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:47] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 140 times.
+
+[22:32:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:37] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 145 times.
+
+[22:33:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:27] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 150 times.
+
+[22:33:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:17] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 155 times.
+
+[22:34:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:05] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:35:05] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:35:05] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:35:05] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:35:05] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:35:05] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:42 mods->FMLHandshakeServerState$2:HELLO
+[22:35:05] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 42 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[22:35:05] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[22:35:05] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:35:05] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[22:35:07] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 160 times.
+
+[22:35:08] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:35:08] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[22:35:08] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:35:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:35:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santiw18[/127.106.105.98:42395] logged in with entity id 1626205 at (-436.2923834208051, 55.0, -339.8368375118347)
+[22:35:08] [Server thread/INFO] [dsurround]: Player [santiw18] connected with Dynamic Surroundings 3.6.1.0
+[22:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 joined the game
+[22:35:08] [Server thread/INFO] [Waila]: Player EntityPlayerMP['santiw18'/1626205, l='world', x=-436.29, y=55.00, z=-339.84] connected. Sending ping
+[22:35:08] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:35:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> wenas
+[22:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> wcalla mrd
+[22:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> are lo q digas patron 7w7
+[22:35:57] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 165 times.
+
+[22:35:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> mandame una foto tuya :34
+[22:36:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:36:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> hola como ia no pedo mardar ese tipo de contenido
+[22:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> tmre
+[22:36:47] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 170 times.
+
+[22:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> queria verte el ojete
+[22:36:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:37] [Server thread/DEBUG] [FML]: The world 2ad4515d (world) may have leaked: seen 175 times.
+
+[22:37:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
