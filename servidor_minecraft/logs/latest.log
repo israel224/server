@@ -1039,3 +1039,15 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 [19:57:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: z_xbro lost connection: Disconnected
 [19:57:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro left the game
 [19:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> permiso
+[20:01:13] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:01:13] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[20:01:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:01:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:47919] logged in with entity id 2784116 at (-444.92817916140035, 5.0, -336.16822472823094)
+[20:01:15] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[20:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[20:01:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/2784116, l='world', x=-444.93, y=5.00, z=-336.17] connected. Sending ping
+[20:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> apagare los spawnresç
+[20:05:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> o lo usaean ?
+[20:05:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> yo no los usare
+[20:06:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:08:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity

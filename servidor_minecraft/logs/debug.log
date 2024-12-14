@@ -15673,3 +15673,65 @@ Caused by: java.lang.ClassCastException: its_meow.betteranimalsplus.common.entit
 
 [19:58:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> permiso
+[19:58:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 180 times.
+
+[19:58:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 185 times.
+
+[20:00:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 190 times.
+
+[20:01:12] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:01:12] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:01:12] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:01:13] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:01:13] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:01:13] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[20:01:13] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,treechop@0.14.6,usefulbackpacks@1.5.4.85,gokistats@1.2.10,biomesoplenty@7.0.1.2445,nocubessrpaddon@2.3.0,baubles@1.5.2,jei@4.16.1.1001,hammertime@2.2.0,waymoreoresmod@1.3.0,roguelike@1.8.0,spartanshields@1.5.5,waystones@4.1.0,xaerominimap@24.6.1,mcp@9.42,nocubessrpnests@3.0.0,clumps@3.1.2,recycler@3.2.4,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,multimob@1.0.5,FML@8.0.99.99,betteranimalsplus@9.0.1,bookshelf@2.3.590,familiarfauna@1.0.11,srparasites@1.9.4,uteamcore@2.2.5.329,xaerominimap_core@1.12.2-1.0,additionalstructures@2.5.0,waila@1.8.26,bibliotheca@1.1.1-1.12.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.14,skinlayers3d@1.2.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@3.6.1.0,eplus@5.0.176,corpse@1.12.2-1.0.8,mobends@1.2.1
+[20:01:13] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[20:01:13] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:01:13] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[20:01:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:01:15] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[20:01:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:01:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:01:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: z_xbro[/127.129.76.24:47919] logged in with entity id 2784116 at (-444.92817916140035, 5.0, -336.16822472823094)
+[20:01:15] [Server thread/INFO] [dsurround]: Player [z_xbro] connected with Dynamic Surroundings 3.6.1.0
+[20:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: z_xbro joined the game
+[20:01:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['z_xbro'/2784116, l='world', x=-444.93, y=5.00, z=-336.17] connected. Sending ping
+[20:01:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:01:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 195 times.
+
+[20:01:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 200 times.
+
+[20:02:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 205 times.
+
+[20:03:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:58] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 210 times.
+
+[20:04:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:48] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 215 times.
+
+[20:04:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> apagare los spawnresç
+[20:05:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <z_xbro> o lo usaean ?
+[20:05:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Luis030405> yo no los usare
+[20:05:38] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 220 times.
+
+[20:05:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:28] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 225 times.
+
+[20:06:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:07:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:18] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 230 times.
+
+[20:07:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:08:08] [Server thread/DEBUG] [FML]: The world 2a23e46b (world) may have leaked: seen 235 times.
+
+[20:08:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
