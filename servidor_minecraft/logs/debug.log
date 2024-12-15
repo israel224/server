@@ -15207,3 +15207,41 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [00:38:14] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 115 times.
 
 [00:38:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:04] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 120 times.
+
+[00:39:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:54] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 125 times.
+
+[00:40:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:40:44] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 130 times.
+
+[00:40:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:41:34] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 135 times.
+
+[00:41:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:42:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:42:24] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 140 times.
+
+[00:43:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:43:14] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 145 times.
+
+[00:43:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:04] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 150 times.
+
+[00:44:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:54] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 155 times.
+
+[00:45:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:45:44] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 160 times.
+
+[00:46:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Getting an Upgrade]
+[00:46:34] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 165 times.
+
+[00:46:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:24] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 170 times.
+
+[00:47:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:14] [Server thread/DEBUG] [FML]: The world 793b22b0 (world) may have leaked: seen 175 times.
+
+[00:48:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

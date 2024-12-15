@@ -807,3 +807,4 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [00:26:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['santiw18'/194, l='world', x=-418.70, y=59.00, z=-345.36] connected. Sending ping
 [00:26:11] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
 [00:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiw18> hola
+[00:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiw18 has made the advancement [Getting an Upgrade]
